@@ -1,32 +1,152 @@
 [
-  { "id": "dare-001", "type": "dare", "text": "Kasih pasanganmu pelukan paling hangat selama 20 detik." },
-  { "id": "dare-002", "type": "dare", "text": "Bisikin satu kalimat romantis ke telinga pasanganmu." },
-  { "id": "dare-003", "type": "dare", "text": "Sebutkan 5 alasan kenapa kamu bersyukur punya pasanganmu." },
-  { "id": "dare-004", "type": "dare", "text": "Pegang tangan pasanganmu sampai giliran berikutnya." },
-  { "id": "dare-005", "type": "dare", "text": "Kasih pasanganmu 3 pujian tanpa mikir lebih dari 5 detik." },
-  { "id": "dare-006", "type": "dare", "text": "Tirukan ekspresi wajah pasanganmu sampai dia ngakak." },
-  { "id": "dare-007", "type": "dare", "text": "Cium kening pasanganmu dengan penuh sayang." },
-  { "id": "dare-008", "type": "dare", "text": "Ceritain momen pertama kali kamu ngerasa jatuh hati sama pasanganmu." },
-  { "id": "dare-009", "type": "dare", "text": "Bikin suara karakter kartun sambil bilang 'Aku kangen kamu'." },
-  { "id": "dare-010", "type": "dare", "text": "Nyanyiin reff lagu favorit kalian berdua." },
-  { "id": "dare-011", "type": "dare", "text": "Kasih pasanganmu julukan baru yang lucu, terus panggil dia pakai nama itu sampai giliran berikutnya." },
-  { "id": "dare-012", "type": "dare", "text": "Pijat bahu pasanganmu selama 30 detik." },
-  { "id": "dare-013", "type": "dare", "text": "Buat pose foto paling romantis selama 10 detik." },
-  { "id": "dare-014", "type": "dare", "text": "Kasih pasanganmu tepuk tangan paling heboh sambil bilang dia keren." },
-  { "id": "dare-015", "type": "dare", "text": "Tebak isi pikiran pasanganmu sekarang. Dia cuma boleh jawab 'iya' atau 'nggak'." },
-  { "id": "dare-016", "type": "dare", "text": "Tatap mata pasanganmu selama 15 detik tanpa ngomong." },
-  { "id": "dare-017", "type": "dare", "text": "Ucapin terima kasih ke pasanganmu atas satu hal yang sering dia lakuin buat kamu." },
-  { "id": "dare-018", "type": "dare", "text": "Bikin pantun cinta dadakan buat pasanganmu." },
-  { "id": "dare-019", "type": "dare", "text": "Kasih pasanganmu satu emoji yang paling menggambarkan dia, lalu jelasin alasannya." },
-  { "id": "dare-020", "type": "dare", "text": "Peluk pasanganmu dari belakang selama 10 detik." },
-  { "id": "dare-021", "type": "dare", "text": "Bilang 'aku beruntung punya kamu' dengan gaya paling dramatis." },
-  { "id": "dare-022", "type": "dare", "text": "Tirukan gaya pasanganmu waktu lagi ngambek." },
-  { "id": "dare-023", "type": "dare", "text": "Kasih pasanganmu senyum paling manis yang kamu punya." },
-  { "id": "dare-024", "type": "dare", "text": "Sebutkan 3 kencan impian yang pengen kamu lakuin bareng pasangan." },
-  { "id": "dare-025", "type": "dare", "text": "Bikin bentuk hati pakai tangan, lalu arahkan ke pasanganmu." },
-  { "id": "dare-026", "type": "dare", "text": "Kasih pasanganmu satu kata yang menurutmu paling cocok buat dia." },
-  { "id": "dare-027", "type": "dare", "text": "Ceritain satu kebiasaan pasangan yang diam-diam bikin kamu gemas." },
-  { "id": "dare-028", "type": "dare", "text": "Ucapkan 'aku sayang kamu' pakai suara robot." },
-  { "id": "dare-029", "type": "dare", "text": "High five sama pasanganmu, terus lanjut jadi pelukan." },
-  { "id": "dare-030", "type": "dare", "text": "Kasih pasanganmu satu doa atau harapan manis buat masa depan kalian." }
+  {
+    "id": "dare-001",
+    "type": "dare",
+    "text": "Kasih pasanganmu pelukan paling hangat selama 20 detik."
+  },
+  {
+    "id": "dare-002",
+    "type": "dare",
+    "text": "Bisikin satu kalimat romantis ke telinga pasanganmu."
+  },
+  {
+    "id": "dare-003",
+    "type": "dare",
+    "text": "Sebutkan 5 alasan kenapa kamu bersyukur punya pasanganmu."
+  },
+  {
+    "id": "dare-004",
+    "type": "dare",
+    "text": "Pegang tangan pasanganmu sampai giliran berikutnya."
+  },
+  {
+    "id": "dare-005",
+    "type": "dare",
+    "text": "Kasih pasanganmu 3 pujian tanpa mikir lebih dari 5 detik."
+  },
+  {
+    "id": "dare-006",
+    "type": "dare",
+    "text": "Tirukan ekspresi wajah pasanganmu sampai dia ngakak."
+  },
+  {
+    "id": "dare-007",
+    "type": "dare",
+    "text": "Cium kening pasanganmu dengan penuh sayang."
+  },
+  {
+    "id": "dare-008",
+    "type": "dare",
+    "text": "Ceritain momen pertama kali kamu ngerasa jatuh hati sama pasanganmu."
+  },
+  {
+    "id": "dare-009",
+    "type": "dare",
+    "text": "Bikin suara karakter kartun sambil bilang 'Aku kangen kamu'."
+  },
+  {
+    "id": "dare-010",
+    "type": "dare",
+    "text": "Nyanyiin reff lagu favorit kalian berdua."
+  },
+  {
+    "id": "dare-011",
+    "type": "dare",
+    "text": "Kasih pasanganmu julukan baru yang lucu, terus panggil dia pakai nama itu sampai giliran berikutnya."
+  },
+  {
+    "id": "dare-012",
+    "type": "dare",
+    "text": "Pijat bahu pasanganmu selama 30 detik."
+  },
+  {
+    "id": "dare-013",
+    "type": "dare",
+    "text": "Buat pose foto paling romantis selama 10 detik."
+  },
+  {
+    "id": "dare-014",
+    "type": "dare",
+    "text": "Kasih pasanganmu tepuk tangan paling heboh sambil bilang dia keren."
+  },
+  {
+    "id": "dare-015",
+    "type": "dare",
+    "text": "Tebak isi pikiran pasanganmu sekarang. Dia cuma boleh jawab 'iya' atau 'nggak'."
+  },
+  {
+    "id": "dare-016",
+    "type": "dare",
+    "text": "Tatap mata pasanganmu selama 15 detik tanpa ngomong."
+  },
+  {
+    "id": "dare-017",
+    "type": "dare",
+    "text": "Ucapin terima kasih ke pasanganmu atas satu hal yang sering dia lakuin buat kamu."
+  },
+  {
+    "id": "dare-018",
+    "type": "dare",
+    "text": "Bikin pantun cinta dadakan buat pasanganmu."
+  },
+  {
+    "id": "dare-019",
+    "type": "dare",
+    "text": "Kasih pasanganmu satu emoji yang paling menggambarkan dia, lalu jelasin alasannya."
+  },
+  {
+    "id": "dare-020",
+    "type": "dare",
+    "text": "Peluk pasanganmu dari belakang selama 10 detik."
+  },
+  {
+    "id": "dare-021",
+    "type": "dare",
+    "text": "Bilang 'aku beruntung punya kamu' dengan gaya paling dramatis."
+  },
+  {
+    "id": "dare-022",
+    "type": "dare",
+    "text": "Tirukan gaya pasanganmu waktu lagi ngambek."
+  },
+  {
+    "id": "dare-023",
+    "type": "dare",
+    "text": "Kasih pasanganmu senyum paling manis yang kamu punya."
+  },
+  {
+    "id": "dare-024",
+    "type": "dare",
+    "text": "Sebutkan 3 kencan impian yang pengen kamu lakuin bareng pasangan."
+  },
+  {
+    "id": "dare-025",
+    "type": "dare",
+    "text": "Bikin bentuk hati pakai tangan, lalu arahkan ke pasanganmu."
+  },
+  {
+    "id": "dare-026",
+    "type": "dare",
+    "text": "Kasih pasanganmu satu kata yang menurutmu paling cocok buat dia."
+  },
+  {
+    "id": "dare-027",
+    "type": "dare",
+    "text": "Ceritain satu kebiasaan pasangan yang diam-diam bikin kamu gemas."
+  },
+  {
+    "id": "dare-028",
+    "type": "dare",
+    "text": "Ucapkan 'aku sayang kamu' pakai suara robot."
+  },
+  {
+    "id": "dare-029",
+    "type": "dare",
+    "text": "High five sama pasanganmu, terus lanjut jadi pelukan."
+  },
+  {
+    "id": "dare-030",
+    "type": "dare",
+    "text": "Kasih pasanganmu satu doa atau harapan manis buat masa depan kalian."
+  }
 ]

@@ -1,32 +1,152 @@
 [
-  { "id": "ques-001", "type": "question", "text": "Kalau hubungan kita bisa diulang dari awal, ada nggak yang pengen kamu ubah?" },
-  { "id": "ques-002", "type": "question", "text": "Kapan kamu ngerasa paling disayang sama aku?" },
-  { "id": "ques-003", "type": "question", "text": "Hal apa yang masih pengen kamu pelajari tentang aku?" },
-  { "id": "ques-004", "type": "question", "text": "Kalau lagi ada masalah, kamu maunya aku ngapain dulu?" },
-  { "id": "ques-005", "type": "question", "text": "Apa ketakutan terbesar kamu soal hubungan kita?" },
-  { "id": "ques-006", "type": "question", "text": "Menurut kamu, apa satu kebiasaan aku yang bikin hubungan kita lebih baik?" },
-  { "id": "ques-007", "type": "question", "text": "Momen apa yang bikin kamu yakin sama hubungan ini?" },
-  { "id": "ques-008", "type": "question", "text": "Kalau lima tahun lagi kita ngobrol lagi, kamu pengen hidup kita kayak gimana?" },
-  { "id": "ques-009", "type": "question", "text": "Apa hal yang belum pernah kamu bilang ke aku karena masih ragu?" },
-  { "id": "ques-010", "type": "question", "text": "Menurut kamu, bahasa cinta yang paling kamu butuhin dari aku apa?" },
-  { "id": "ques-011", "type": "question", "text": "Kalau lagi capek sama hidup, apa yang bisa aku lakuin biar kamu ngerasa tenang?" },
-  { "id": "ques-012", "type": "question", "text": "Apa mimpi terbesar yang pengen kita wujudin bareng?" },
-  { "id": "ques-013", "type": "question", "text": "Apa hal sederhana yang paling bikin kamu bahagia kalau kita lakuin bareng?" },
-  { "id": "ques-014", "type": "question", "text": "Kalau aku punya satu kekurangan yang perlu diperbaiki, kamu pengen aku berubah di bagian apa?" },
-  { "id": "ques-015", "type": "question", "text": "Kalau harus mendeskripsikan hubungan kita pakai tiga kata, apa aja?" },
-  { "id": "ques-016", "type": "question", "text": "Kalau kita tukeran HP selama 10 menit, aplikasi pertama yang bakal kamu buka apa?" },
-  { "id": "ques-017", "type": "question", "text": "Siapa yang paling mungkin nyasar pas jalan bareng?" },
-  { "id": "ques-018", "type": "question", "text": "Kalau kita jadi karakter kartun, kita paling mirip siapa?" },
-  { "id": "ques-019", "type": "question", "text": "Kasih aku tiga julukan lucu yang cocok buat aku." },
-  { "id": "ques-020", "type": "question", "text": "Kalau kita buka warung bareng, jualan apa yang paling cocok?" },
-  { "id": "ques-021", "type": "question", "text": "Siapa yang paling sering ngambek duluan menurut kamu?" },
-  { "id": "ques-022", "type": "question", "text": "Kalau kita menang undian 1 miliar hari ini, hal pertama yang pengen kita lakuin apa?" },
-  { "id": "ques-023", "type": "question", "text": "Kalau harus makan menu yang sama selama seminggu, kamu pilih apa?" },
-  { "id": "ques-024", "type": "question", "text": "Siapa yang paling jago bikin pasangan ketawa?" },
-  { "id": "ques-025", "type": "question", "text": "Kalau kita bikin playlist berdua, lagu pertama yang wajib masuk apa?" },
-  { "id": "ques-026", "type": "question", "text": "Kalau kita liburan tanpa rencana sama sekali, kamu berani nggak?" },
-  { "id": "ques-027", "type": "question", "text": "Kalau aku jadi makanan, menurut kamu aku cocok jadi apa?" },
-  { "id": "ques-028", "type": "question", "text": "Siapa yang paling lama pilih menu kalau lagi makan di luar?" },
-  { "id": "ques-029", "type": "question", "text": "Kalau kita bikin challenge TikTok atau Reels, challenge apa yang paling kocak buat dicoba?" },
-  { "id": "ques-030", "type": "question", "text": "Kasih nilai 1 sampai 10 buat kemampuan aku bikin kamu senyum. Terus jelasin alasannya." }
+  {
+    "id": "ques-001",
+    "type": "question",
+    "text": "Kalau hubungan kita bisa diulang dari awal, ada nggak yang pengen kamu ubah?"
+  },
+  {
+    "id": "ques-002",
+    "type": "question",
+    "text": "Kapan kamu ngerasa paling disayang sama aku?"
+  },
+  {
+    "id": "ques-003",
+    "type": "question",
+    "text": "Hal apa yang masih pengen kamu pelajari tentang aku?"
+  },
+  {
+    "id": "ques-004",
+    "type": "question",
+    "text": "Kalau lagi ada masalah, kamu maunya aku ngapain dulu?"
+  },
+  {
+    "id": "ques-005",
+    "type": "question",
+    "text": "Apa ketakutan terbesar kamu soal hubungan kita?"
+  },
+  {
+    "id": "ques-006",
+    "type": "question",
+    "text": "Menurut kamu, apa satu kebiasaan aku yang bikin hubungan kita lebih baik?"
+  },
+  {
+    "id": "ques-007",
+    "type": "question",
+    "text": "Momen apa yang bikin kamu yakin sama hubungan ini?"
+  },
+  {
+    "id": "ques-008",
+    "type": "question",
+    "text": "Lima tahun lagi, kamu pengen hidup kita kayak gimana?"
+  },
+  {
+    "id": "ques-009",
+    "type": "question",
+    "text": "Apa hal yang belum pernah kamu bilang ke aku karena masih ragu?"
+  },
+  {
+    "id": "ques-010",
+    "type": "question",
+    "text": "Menurut kamu, bahasa cinta yang paling kamu butuhin dari aku apa?"
+  },
+  {
+    "id": "ques-011",
+    "type": "question",
+    "text": "Kalau lagi capek sama hidup, apa yang bisa aku lakuin biar kamu ngerasa tenang?"
+  },
+  {
+    "id": "ques-012",
+    "type": "question",
+    "text": "Apa impian yang pengen kita wujudin bareng?"
+  },
+  {
+    "id": "ques-013",
+    "type": "question",
+    "text": "Apa hal sederhana yang paling bikin kamu bahagia kalau kita lakuin bareng?"
+  },
+  {
+    "id": "ques-014",
+    "type": "question",
+    "text": "Kalau aku punya satu kekurangan yang perlu diperbaiki, kamu pengen aku berubah di bagian apa?"
+  },
+  {
+    "id": "ques-015",
+    "type": "question",
+    "text": "Kalau harus mendeskripsikan hubungan kita pakai tiga kata, apa aja?"
+  },
+  {
+    "id": "ques-016",
+    "type": "question",
+    "text": "Kalau kita tukeran HP selama 10 menit, aplikasi pertama yang bakal kamu buka apa?"
+  },
+  {
+    "id": "ques-017",
+    "type": "question",
+    "text": "Siapa yang paling mungkin nyasar pas jalan bareng?"
+  },
+  {
+    "id": "ques-018",
+    "type": "question",
+    "text": "Kalau kita jadi karakter kartun, kita paling mirip siapa?"
+  },
+  {
+    "id": "ques-019",
+    "type": "question",
+    "text": "Kasih aku tiga julukan lucu yang cocok buat aku."
+  },
+  {
+    "id": "ques-020",
+    "type": "question",
+    "text": "Kalau kita buka warung bareng, jualan apa yang paling cocok?"
+  },
+  {
+    "id": "ques-021",
+    "type": "question",
+    "text": "Siapa yang paling sering ngambek duluan menurut kamu?"
+  },
+  {
+    "id": "ques-022",
+    "type": "question",
+    "text": "Kalau kita menang undian 1 miliar hari ini, hal pertama yang pengen kita lakuin apa?"
+  },
+  {
+    "id": "ques-023",
+    "type": "question",
+    "text": "Kalau harus makan menu yang sama selama seminggu, kamu pilih apa?"
+  },
+  {
+    "id": "ques-024",
+    "type": "question",
+    "text": "Siapa yang paling jago bikin pasangan ketawa?"
+  },
+  {
+    "id": "ques-025",
+    "type": "question",
+    "text": "Kalau kita bikin playlist berdua, lagu pertama yang wajib masuk apa?"
+  },
+  {
+    "id": "ques-026",
+    "type": "question",
+    "text": "Kalau kita liburan tanpa rencana sama sekali, kamu berani nggak?"
+  },
+  {
+    "id": "ques-027",
+    "type": "question",
+    "text": "Kalau aku jadi makanan, menurut kamu aku cocok jadi apa?"
+  },
+  {
+    "id": "ques-028",
+    "type": "question",
+    "text": "Siapa yang paling lama pilih menu kalau lagi makan di luar?"
+  },
+  {
+    "id": "ques-029",
+    "type": "question",
+    "text": "Kalau kita bikin challenge TikTok atau Reels, challenge apa yang paling kocak buat dicoba?"
+  },
+  {
+    "id": "ques-030",
+    "type": "question",
+    "text": "Kasih nilai 1 sampai 10 buat kemampuan aku bikin kamu senyum. Terus jelasin alasannya."
+  }
 ]

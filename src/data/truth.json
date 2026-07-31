@@ -1,32 +1,152 @@
 [
-  { "id": "truth-001", "type": "truth", "text": "Apa hal paling random yang bikin kamu jatuh hati sama pasangan?" },
-  { "id": "truth-002", "type": "truth", "text": "Kalau boleh mengulang satu momen bareng pasangan, kamu pilih momen yang mana?" },
-  { "id": "truth-003", "type": "truth", "text": "Apa kebiasaan pasangan yang kadang bikin kamu gemes tapi tetap kamu suka?" },
-  { "id": "truth-004", "type": "truth", "text": "Pernah nggak pura-pura ngambek cuma buat cari perhatian?" },
-  { "id": "truth-005", "type": "truth", "text": "Hal apa yang paling kamu takutkan kalau suatu hari hubungan ini berubah?" },
-  { "id": "truth-006", "type": "truth", "text": "Apa pujian dari pasangan yang paling kamu ingat sampai sekarang?" },
-  { "id": "truth-007", "type": "truth", "text": "Kalau pasanganmu berubah jadi hewan selama sehari, menurutmu dia bakal jadi hewan apa?" },
-  { "id": "truth-008", "type": "truth", "text": "Apa kebiasaan kecil pasangan yang bikin kamu senyum tanpa sadar?" },
-  { "id": "truth-009", "type": "truth", "text": "Siapa yang biasanya minta maaf duluan kalau lagi berantem?" },
-  { "id": "truth-010", "type": "truth", "text": "Apa momen paling malu yang pernah kamu alami di depan pasangan?" },
-  { "id": "truth-011", "type": "truth", "text": "Kalau harus kasih pasangan nilai dari 1 sampai 10 soal romantis, berapa nilainya?" },
-  { "id": "truth-012", "type": "truth", "text": "Apa hadiah dari pasangan yang paling berkesan buat kamu?" },
-  { "id": "truth-013", "type": "truth", "text": "Pernah nggak kamu cemburu tapi milih diem aja?" },
-  { "id": "truth-014", "type": "truth", "text": "Apa chat dari pasangan yang sampai sekarang masih kamu simpan?" },
-  { "id": "truth-015", "type": "truth", "text": "Kalau pasanganmu bisa baca isi pikiranmu sekarang, dia bakal kaget nggak?" },
-  { "id": "truth-016", "type": "truth", "text": "Apa sifat pasangan yang paling bikin kamu nyaman?" },
-  { "id": "truth-017", "type": "truth", "text": "Apa hal yang paling sering bikin kamu kangen sama pasangan?" },
-  { "id": "truth-018", "type": "truth", "text": "Kalau disuruh pilih satu foto favorit bareng pasangan, foto yang mana?" },
-  { "id": "truth-019", "type": "truth", "text": "Apa impian sederhana yang pengen kamu wujudin bareng pasangan?" },
-  { "id": "truth-020", "type": "truth", "text": "Hal apa yang pengen lebih sering kalian lakuin berdua?" },
-  { "id": "truth-021", "type": "truth", "text": "Apa panggilan sayang paling unik yang pernah kamu kasih ke pasangan?" },
-  { "id": "truth-022", "type": "truth", "text": "Kalau pasanganmu lagi sedih, biasanya kamu ngapain buat bikin dia senyum?" },
-  { "id": "truth-023", "type": "truth", "text": "Apa hal yang paling kamu banggakan dari pasanganmu?" },
-  { "id": "truth-024", "type": "truth", "text": "Pernah nggak kamu sengaja bikin pasangan cemburu? Ceritain." },
-  { "id": "truth-025", "type": "truth", "text": "Apa kebiasaan kamu yang menurutmu paling bikin pasangan kesel?" },
-  { "id": "truth-026", "type": "truth", "text": "Kalau hubungan kalian dijadiin film, judulnya apa?" },
-  { "id": "truth-027", "type": "truth", "text": "Apa momen paling lucu yang nggak bakal kamu lupain bareng pasangan?" },
-  { "id": "truth-028", "type": "truth", "text": "Apa satu hal yang pengen kamu bilang ke pasangan tapi belum sempat?" },
-  { "id": "truth-029", "type": "truth", "text": "Kalau pasanganmu menang lotre besok, menurutmu hal pertama yang dia lakukan apa?" },
-  { "id": "truth-030", "type": "truth", "text": "Menurutmu, apa alasan terbesar hubungan kalian masih bertahan sampai sekarang?" }
+  {
+    "id": "truth-001",
+    "type": "truth",
+    "text": "Apa hal paling random yang bikin kamu jatuh hati sama pasangan?"
+  },
+  {
+    "id": "truth-002",
+    "type": "truth",
+    "text": "Kalau boleh mengulang satu momen bareng pasangan, kamu pilih momen yang mana?"
+  },
+  {
+    "id": "truth-003",
+    "type": "truth",
+    "text": "Apa kebiasaan pasangan yang kadang bikin kamu gemes tapi tetap kamu suka?"
+  },
+  {
+    "id": "truth-004",
+    "type": "truth",
+    "text": "Pernah nggak pura-pura ngambek cuma buat cari perhatian?"
+  },
+  {
+    "id": "truth-005",
+    "type": "truth",
+    "text": "Hal apa yang paling kamu takutkan kalau suatu hari hubungan ini berubah?"
+  },
+  {
+    "id": "truth-006",
+    "type": "truth",
+    "text": "Apa pujian dari pasangan yang paling kamu ingat sampai sekarang?"
+  },
+  {
+    "id": "truth-007",
+    "type": "truth",
+    "text": "Kalau pasanganmu berubah jadi hewan selama sehari, menurutmu dia bakal jadi hewan apa?"
+  },
+  {
+    "id": "truth-008",
+    "type": "truth",
+    "text": "Apa kebiasaan kecil pasangan yang bikin kamu senyum tanpa sadar?"
+  },
+  {
+    "id": "truth-009",
+    "type": "truth",
+    "text": "Siapa yang biasanya minta maaf duluan kalau lagi berantem?"
+  },
+  {
+    "id": "truth-010",
+    "type": "truth",
+    "text": "Apa momen paling malu yang pernah kamu alami di depan pasangan?"
+  },
+  {
+    "id": "truth-011",
+    "type": "truth",
+    "text": "Kalau harus kasih pasangan nilai dari 1 sampai 10 soal romantis, berapa nilainya?"
+  },
+  {
+    "id": "truth-012",
+    "type": "truth",
+    "text": "Apa hadiah dari pasangan yang paling berkesan buat kamu?"
+  },
+  {
+    "id": "truth-013",
+    "type": "truth",
+    "text": "Pernah nggak kamu cemburu tapi milih diem aja?"
+  },
+  {
+    "id": "truth-014",
+    "type": "truth",
+    "text": "Apa chat dari pasangan yang sampai sekarang masih kamu simpan?"
+  },
+  {
+    "id": "truth-015",
+    "type": "truth",
+    "text": "Kalau pasanganmu bisa baca isi pikiranmu sekarang, dia bakal kaget nggak?"
+  },
+  {
+    "id": "truth-016",
+    "type": "truth",
+    "text": "Apa sifat pasangan yang paling bikin kamu nyaman?"
+  },
+  {
+    "id": "truth-017",
+    "type": "truth",
+    "text": "Apa hal yang paling sering bikin kamu kangen sama pasangan?"
+  },
+  {
+    "id": "truth-018",
+    "type": "truth",
+    "text": "Kalau disuruh pilih satu foto favorit bareng pasangan, foto yang mana?"
+  },
+  {
+    "id": "truth-019",
+    "type": "truth",
+    "text": "Apa impian sederhana yang pengen kamu wujudin bareng pasangan?"
+  },
+  {
+    "id": "truth-020",
+    "type": "truth",
+    "text": "Hal apa yang pengen lebih sering kalian lakuin berdua?"
+  },
+  {
+    "id": "truth-021",
+    "type": "truth",
+    "text": "Apa panggilan sayang paling unik yang pernah kamu kasih ke pasangan?"
+  },
+  {
+    "id": "truth-022",
+    "type": "truth",
+    "text": "Kalau pasanganmu lagi sedih, biasanya kamu ngapain buat bikin dia senyum?"
+  },
+  {
+    "id": "truth-023",
+    "type": "truth",
+    "text": "Apa hal yang paling kamu banggakan dari pasanganmu?"
+  },
+  {
+    "id": "truth-024",
+    "type": "truth",
+    "text": "Pernah nggak kamu sengaja bikin pasangan cemburu? Ceritain."
+  },
+  {
+    "id": "truth-025",
+    "type": "truth",
+    "text": "Apa kebiasaan kamu yang menurutmu paling bikin pasangan kesel?"
+  },
+  {
+    "id": "truth-026",
+    "type": "truth",
+    "text": "Kalau hubungan kalian dijadiin film, judulnya apa?"
+  },
+  {
+    "id": "truth-027",
+    "type": "truth",
+    "text": "Apa momen paling lucu yang nggak bakal kamu lupain bareng pasangan?"
+  },
+  {
+    "id": "truth-028",
+    "type": "truth",
+    "text": "Apa satu hal yang pengen kamu bilang ke pasangan tapi belum sempat?"
+  },
+  {
+    "id": "truth-029",
+    "type": "truth",
+    "text": "Kalau pasanganmu menang lotre besok, menurutmu hal pertama yang dia lakukan apa?"
+  },
+  {
+    "id": "truth-030",
+    "type": "truth",
+    "text": "Menurutmu, apa alasan terbesar hubungan kalian masih bertahan sampai sekarang?"
+  }
 ]
